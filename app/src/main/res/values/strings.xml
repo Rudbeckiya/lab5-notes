@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">lab05-notes</string>
+    <string name="email_string">Email:</string>
+    <string name="typeEmail_string">Type email</string>
+</resources>
